@@ -3,9 +3,9 @@ Experiment basierend auf https://github.com/stho32/Collection-Of-Challenges
 
 Nach der Klassifikation beinhaltet dieses Repository:
 - einen Zufallsgenerator
-- für das Terminal
+- als WebAPI
 - unter Linux lauffähig
-- in C# programmiert
+- in TypeScript
 
 # Zufallsgenerator Anforderungen
 
