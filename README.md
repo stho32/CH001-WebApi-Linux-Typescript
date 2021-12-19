@@ -1,4 +1,4 @@
-# CH001-Console-Linux-CSharp
+# CH001-WebApi-Linux-Typescript
 Experiment basierend auf https://github.com/stho32/Collection-Of-Challenges
 
 Nach der Klassifikation beinhaltet dieses Repository:
@@ -23,3 +23,9 @@ Nach der Klassifikation beinhaltet dieses Repository:
 
 - [ ] Das Repository sollte eine Dokumentation und/ oder ein build-Skript beinhalten, das angibt, woe der Code zu übersetzen ist
 - [ ] Das Repository kann/möchte wenn möglich einen github-Workflow beinhalten, der den Code übersetzt und ein neues Release bereitstellt.
+
+## Umgebung installieren
+- wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+- Shell neu starten
+- nvm install --lts
+- node --version --> ```v16.13.1```
